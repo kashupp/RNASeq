@@ -5,7 +5,7 @@
 # 4- Also check number of non zero genes and number of reads aligned per sample.
 # 5-MA plot and pvalue bar plots
 # Differential gene expression
-# 1- Performed by DESeq2
+# 1- Performed by DESeq2.
 
 rm(list=ls())
 
